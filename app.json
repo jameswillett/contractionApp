@@ -1,0 +1,9 @@
+{
+  "name": "Meggo Contraction App",
+  "icon": "./meggo.png",
+  "version": "69",
+  "ios": {
+    "bundleIdentifier": "io.jameswillett.meggo",
+  },
+  "sdkVersion": "27.0.0"
+}
